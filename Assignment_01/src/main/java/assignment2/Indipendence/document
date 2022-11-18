@@ -1,1 +1,2 @@
--->Cat and Dog class are examples of independent coupling
+-->Cat and Dog class are examples of independent coupling.
+-->Both these classes do not rely on each other for their functionalities.
