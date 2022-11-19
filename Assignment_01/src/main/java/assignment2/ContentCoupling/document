@@ -1,1 +1,2 @@
 -->here the Mercedes class is modifying data of the Car class which is passed.
+-->Similarly any type of Car will modify the content of the Car object which will be passed.
